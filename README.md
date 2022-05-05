@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidhazagury
 - 👀 I’m interested in product develoment and ML/AI. And travel the world!
-- 🌱 I’m currently learning RSpec, TDD and getting better at RoR
+- 🌱 I’m currently learning microservices, RSpec, TDD and getting better at RoR
 - 💞️ I’m looking to collaborate on projects with an social impact (ONGs, etc...)
 - 📫 How to reach me DM me
 
